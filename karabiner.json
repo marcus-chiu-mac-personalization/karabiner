@@ -74,7 +74,7 @@
                             {
                                 "description": "spectacle - left half",
                                 "from": {
-                                    "key_code": "left_arrow",
+                                    "key_code": "a",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
@@ -100,7 +100,7 @@
                             {
                                 "description": "spectacle - right half",
                                 "from": {
-                                    "key_code": "right_arrow",
+                                    "key_code": "d",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
@@ -126,7 +126,7 @@
                             {
                                 "description": "spectacle - top half",
                                 "from": {
-                                    "key_code": "up_arrow",
+                                    "key_code": "w",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
@@ -152,7 +152,7 @@
                             {
                                 "description": "spectacle - bottom half",
                                 "from": {
-                                    "key_code": "down_arrow",
+                                    "key_code": "s",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn"
@@ -178,7 +178,7 @@
                             {
                                 "description": "spectacle - upper left",
                                 "from": {
-                                    "key_code": "left_arrow",
+                                    "key_code": "a",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn",
@@ -206,7 +206,7 @@
                             {
                                 "description": "spectacle - lower left",
                                 "from": {
-                                    "key_code": "down_arrow",
+                                    "key_code": "s",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn",
@@ -234,7 +234,7 @@
                             {
                                 "description": "spectacle - lower right",
                                 "from": {
-                                    "key_code": "right_arrow",
+                                    "key_code": "d",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn",
@@ -262,7 +262,7 @@
                             {
                                 "description": "spectacle - upper right",
                                 "from": {
-                                    "key_code": "up_arrow",
+                                    "key_code": "w",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn",
@@ -345,7 +345,7 @@
                             {
                                 "description": "spectacle - make larger",
                                 "from": {
-                                    "key_code": "up_arrow",
+                                    "key_code": "w",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn",
@@ -373,7 +373,7 @@
                             {
                                 "description": "spectacle - make smaller",
                                 "from": {
-                                    "key_code": "down_arrow",
+                                    "key_code": "s",
                                     "modifiers": {
                                         "mandatory": [
                                             "fn",
